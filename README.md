@@ -27,8 +27,6 @@ Methodology).](https://doi.org/10.1111/rssb.12348)
 
 # Installation
 
-# Development version
-
 To install this fork, make sure you have the
 package `devtools` installed.
 
